@@ -13,7 +13,9 @@ function Footer() {
 						<div className="flex items-center gap-2 text-gray-600">
 							<div className="flex items-center gap-3">
 								<Blocks size={22} />
-								<span className="font-extrabold text-lg">Skriptr</span>
+								<span className="text-lg font-extrabold tracking-wide">
+									Skriptr
+								</span>
 							</div>
 							<span className="text-sm"> | For developers. By developers.</span>
 						</div>
